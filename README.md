@@ -141,6 +141,7 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 ```
 
 ##### Authors
-Rodney Mwanje Luguyesi Rodney and Nancy Chemutai
+- Rodney Mwanje Luguyesi Rodney
+- Nancy Chemutai
 
 <br>
