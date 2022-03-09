@@ -1,3 +1,9 @@
+-- Create MySQL server
+-- With db as hbnb_dev_db
+-- user will be hbnb_dev
+-- password is hbnb_dev_pwd in localhost
+-- All priviledges are granted
+
 CREATE DATABASE IF NOT EXISTS hbnb_dev_db;
 CREATE USER
     IF NOT EXISTS 'hbnb_dev'@'localhost'
