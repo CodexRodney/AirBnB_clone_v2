@@ -9,7 +9,7 @@
 ---
 
 ## Web Framework Types
--- Server-side (backend)
+<b> Server-side (backend)</b>
 - NET(C#)
 - Django (Python)
 - Ruby on Rails (Ruby)
@@ -17,7 +17,7 @@
 - Symfony (PHP)
 ---
 
--- User-side(frontend)
+<b> User-side(frontend)</b>
 - Angula
 - Ember.JS
 - Vue.JS
